@@ -2,4 +2,4 @@
 An app that enables you to repost on twitter all the posts from a bitclout user.
 Will be deployed on Heroku.
 
-Use it the way you want!
+Use it the way you want, create bots and spread the word about bitclout on twitter!
